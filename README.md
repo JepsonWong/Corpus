@@ -12,12 +12,56 @@ Awesome-Chinese-NLP: https://github.com/crownpku/Awesome-Chinese-NLP
 
 今日头条中文新闻文本(多层)分类数据集: https://github.com/fate233/toutiao-multilevel-text-classfication-dataset
 
-中文公开聊天语料库: https://github.com/codemayq/chaotbot_corpus_Chinese
+中文公开聊天语料库(已下到百度网盘): https://github.com/codemayq/chaotbot_corpus_Chinese
+
+中文自然语言处理相关资料(包括语料): https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99
 
 ## English
 
 ## Chinese & English
 
-nlp-datasets: https://github.com/karthikncode/nlp-datasets
+nlp-datasets(**Question Answering** & **Dialogue Systems** & **Goal-Oriented Dialogue Systems**): https://github.com/karthikncode/nlp-datasets
+
+Question Answering补充: CoQA(2018, https://stanfordnlp.github.io/coqa/, https://arxiv.org/pdf/1808.07042.pdf 论文内部有和其他数据集的对比), SQuAD2.0(2018, https://rajpurkar.github.io/SQuAD-explorer/)
 
 nlp-datasets: https://github.com/niderhoff/nlp-datasets
+
+## 爬虫
+
+[深度学习必备，各路免费爬虫一举拿下](https://mp.weixin.qq.com/s/75QDjRTDCKzuM68L4fg5Lg)
+
+* https://github.com/facert/awesome-spider
+* https://github.com/Nyloner/Nyspider
+* https://github.com/CriseLYJ/awesome-python-login-model
+* https://github.com/Jack-Cherish/python-spider
+* https://github.com/jhao104/proxy_pool
+* https://github.com/Ehco1996/Python-crawler
+* https://github.com/sczhengyabin/Image-Downloader（图片和视频）
+* https://github.com/iawia002/annie（视频）
+
+## 数学题海数据集
+
+[神经网络也能解数学题，DeepMind发布千万数学题海数据集](https://zhuanlan.zhihu.com/p/61476515)
+
+[DeepMind给AI出了200万道数学题，果然不如计算器哈哈哈哈 数据集出来了](https://zhuanlan.zhihu.com/p/61411279)
+
+[mathematics_dataset](https://github.com/deepmind/mathematics_dataset)
+
+## 数据集汇总
+
+https://www.cnblogs.com/5211314jackrose/p/8413402.html
+
+http://deeplearning.net/datasets/
+
+https://bigml.com/user/bigml/gallery/datasets
+
+## MRNet数据集
+
+包含1千多张标注膝关节核磁共振成像。
+
+https://zhuanlan.zhihu.com/p/62399279
+
+## Objects365
+
+最大物体检测数据集: http://www.objects365.org/overview.html
+
