@@ -1,4 +1,4 @@
-## Chinese
+## NLP Chinese
 
 ChineseNlpCorpus: https://github.com/SophonPlus/ChineseNlpCorpus
 
@@ -16,9 +16,9 @@ Awesome-Chinese-NLP: https://github.com/crownpku/Awesome-Chinese-NLP
 
 中文自然语言处理相关资料(包括语料): https://github.com/crownpku/awesome-chinese-nlp#corpus-%E4%B8%AD%E6%96%87%E8%AF%AD%E6%96%99
 
-## English
+## NLP English
 
-## Chinese & English
+## NLP Chinese & English
 
 nlp-datasets(**Question Answering** & **Dialogue Systems** & **Goal-Oriented Dialogue Systems**): https://github.com/karthikncode/nlp-datasets
 
@@ -65,3 +65,11 @@ https://zhuanlan.zhihu.com/p/62399279
 
 最大物体检测数据集: http://www.objects365.org/overview.html
 
+## Open Images V5数据集: 包含 280 万个物体实例的分割掩码，覆盖 350 个类别
+
+https://zhuanlan.zhihu.com/p/66295545
+
+# PASCAL VOC、ImageNet
+
+PASCAL VOC是2005年发起的一个视觉挑战赛，ImageNet是2010年发起的大规模视觉识别竞赛(ILSVRC)的数据集。
+ 
