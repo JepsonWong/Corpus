@@ -72,4 +72,8 @@ https://zhuanlan.zhihu.com/p/66295545
 # PASCAL VOC、ImageNet
 
 PASCAL VOC是2005年发起的一个视觉挑战赛，ImageNet是2010年发起的大规模视觉识别竞赛(ILSVRC)的数据集。
+
+# 公开数据集
+
+[人工智能大数据,公开的海量数据集下载,ImageNet数据集下载,数据挖掘机器学习数据集下载](https://www.cnblogs.com/zdz8207/p/Public-Research-Quality-Datasets.html)
  
