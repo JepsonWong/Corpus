@@ -76,4 +76,10 @@ PASCAL VOC是2005年发起的一个视觉挑战赛，ImageNet是2010年发起的
 # 公开数据集
 
 [人工智能大数据,公开的海量数据集下载,ImageNet数据集下载,数据挖掘机器学习数据集下载](https://www.cnblogs.com/zdz8207/p/Public-Research-Quality-Datasets.html)
+
+[开放的一天，吴恩达、谷歌、Facebook纷纷开源数据集](https://zhuanlan.zhihu.com/p/55642533)
+
+* 谷歌提出自然问答数据集 Natural Questions（NQ）
+* 吴恩达提出胸部放射影像数据集 CheXpert
+* Facebook 提出新型视觉定位数据集 BISON
  
