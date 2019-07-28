@@ -26,6 +26,8 @@ Question Answering补充: CoQA(2018, https://stanfordnlp.github.io/coqa/, https:
 
 nlp-datasets: https://github.com/niderhoff/nlp-datasets
 
+微软MARCO阅读理解数据集、DuReader数据集（面向真实应用的、开放域的、大规模中文阅读理解数据集） [DuReader](https://blog.csdn.net/LiJiancheng0614/article/details/80866088)
+
 ## 爬虫
 
 [深度学习必备，各路免费爬虫一举拿下](https://mp.weixin.qq.com/s/75QDjRTDCKzuM68L4fg5Lg)
@@ -82,4 +84,8 @@ PASCAL VOC是2005年发起的一个视觉挑战赛，ImageNet是2010年发起的
 * 谷歌提出自然问答数据集 Natural Questions（NQ）
 * 吴恩达提出胸部放射影像数据集 CheXpert
 * Facebook 提出新型视觉定位数据集 BISON
+
+# 图像数据集
+
+图像分类公开的标准数据集常用的有CIFAR、ImageNet、COCO等，常用的细粒度图像分类数据集包括CUB-200-2011、Stanford Dog、Oxford-flowers等。
  
